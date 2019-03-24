@@ -1,5 +1,7 @@
 #  Project Title-*Spontaneity*
 
+https://stle1117.github.io/project1/
+
 *Spontaneity* is a travel companion for spontaneous groups that whimsically travel and want data-driven support for their whimsical travel decision-making.  *Spontaneity’s* purpose is to help you spontaneously make a decision of where to visit if you are an open-minded spontaneous adventurer by providing you with a one-stop shop dashboard that streamlines the process of acquiring data to make a travel decision.  
 
 ## How it Works
